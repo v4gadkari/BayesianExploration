@@ -1,2 +1,2 @@
 # BayesianExploration
-Messing around with Bayesian Modeling Techniques using the RJAGS package
+Dedicated for messing around with Bayesian Modeling in RJAGS
